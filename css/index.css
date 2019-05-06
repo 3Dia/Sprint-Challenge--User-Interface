@@ -71,7 +71,9 @@ p {
     margin: 0 auto;
 }
 
-
+.logo{
+    
+}
 nav{
     display:flex;
     justify-content: space-evenly;
