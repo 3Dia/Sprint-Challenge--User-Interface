@@ -72,7 +72,7 @@ p {
 }
 
 .logo{
-    
+
 }
 nav{
     display:flex;
@@ -255,4 +255,14 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+/*ABOUT PAGE*/  
+
+.about-top{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    margin-top: 20px;
+    width: 100%;
+    padding: 0 1%;
+    padding-bottom: 20px; 
 }
