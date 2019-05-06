@@ -266,3 +266,14 @@ footer nav a {
     padding: 0 1%;
     padding-bottom: 20px; 
 }
+
+.learn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: black solid 2px;;
+    border-radius: 30px;
+    width: 35%;
+    padding: 10px;
+    margin: 10px;
+}
